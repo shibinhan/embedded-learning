@@ -1,0 +1,21 @@
+# Keil/MDK build output
+OBJ/
+*.o
+*.d
+*.axf
+*.hex
+*.map
+*.lnp
+*.sct
+*.htm
+*.dep
+build_log.txt
+flash_log.txt
+
+# Keil user settings
+*.uvguix.*
+DebugConfig/
+
+# Windows
+Thumbs.db
+*.exe
